@@ -45,13 +45,14 @@ Install dependencies: pip install -r requirements.txt
 Run the notebook: jupyter notebook notebooks/epileptic_seizure_prediction.ipynb
 
 ## 📂 Project Structure
-plaintext
+```plaintext
 ├── data/                  # EEG dataset
 ├── notebooks/             # Jupyter notebooks for EDA and modeling
 ├── models/                # Trained model files (optional)
 ├── results/               # Plots, performance metrics
 ├── thesis_report.pdf      # Full project documentation
 └── README.md              # Project summary
+```
 
 ## 👩‍💻 Authors
 Joyita Das Gupta – joyitadasgupta1998@gmail.com
