@@ -51,7 +51,9 @@ The steps followed in this project:
 ## 🚀 How to Run
 Clone the repository: git clone https://github.com/yourusername/epileptic-seizure-prediction.git
 cd epileptic-seizure-prediction
+
 Install dependencies: pip install -r requirements.txt
+
 Run the notebook: jupyter notebook notebooks/epileptic_seizure_prediction.ipynb
 
 ## 👩‍💻 Authors
