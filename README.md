@@ -37,13 +37,28 @@ The steps followed in this project:
 3. Training of Multiple ML Models
 4. Evaluation using metrics like Accuracy, F1-Score, ROC-AUC, Precision, and Recall
 5. Comparison of Model Performance
+   
+## 🚀 How to Run
+Clone the repository: git clone https://github.com/yourusername/epileptic-seizure-prediction.git
+cd epileptic-seizure-prediction
+Install dependencies: pip install -r requirements.txt
+Run the notebook: jupyter notebook notebooks/epileptic_seizure_prediction.ipynb
 
 ## 📂 Project Structure
-
-```plaintext
+plaintext
 ├── data/                  # EEG dataset
 ├── notebooks/             # Jupyter notebooks for EDA and modeling
 ├── models/                # Trained model files (optional)
 ├── results/               # Plots, performance metrics
 ├── thesis_report.pdf      # Full project documentation
 └── README.md              # Project summary
+
+## 👩‍💻 Authors
+Joyita Das Gupta – joyitadasgupta1998@gmail.com
+Mrettika Das Gupta – mrettikagupta@gmail.com
+Himani Das Koli – himani.das1998@gmail.com
+
+## 🏫 Institution
+Premier University
+Department of Computer Science & Engineering
+Chittagong, Bangladesh
