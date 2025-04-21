@@ -56,13 +56,6 @@ Install dependencies: pip install -r requirements.txt
 
 Run the notebook: jupyter notebook notebooks/epileptic_seizure_prediction.ipynb
 
-## 👩‍💻 Authors
-Joyita Das Gupta – joyitadasgupta1998@gmail.com
-
-Mrettika Das Gupta – mrettikagupta@gmail.com
-
-Himani Das Koli – himani.das1998@gmail.com
-
 ## 🏫 Institution
 Premier University
 
