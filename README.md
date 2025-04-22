@@ -1,4 +1,4 @@
-# Epileptic Seizure Prediction using EEG Signals
+# A comparative study of Machine Learning algorithms for Epileptic Seizure Prediction using EEG Signal
 
 ## 📄 Project Overview
 
